@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[if ($1isset(\$${2:list}['${3:key}']) {
+	${0}
+}]]></content>
+    <tabTrigger>ifi</tabTrigger>
+    <scope>source.php</scope>
+    <description>if isset…</description>
+</snippet>

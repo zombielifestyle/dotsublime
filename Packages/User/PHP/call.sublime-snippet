@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[call_user_func_array(\$${1:f}, \$${2:args});
+]]></content>
+    <tabTrigger>call</tabTrigger>
+    <scope>source.php</scope>
+    <description>call …</description>
+</snippet>
